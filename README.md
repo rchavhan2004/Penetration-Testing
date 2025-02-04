@@ -1,16 +1,4 @@
-# Penetration-Testing-Toolkit
 
-**COMPANY** : CODTECH IT SOLUTIONS
-
-**NAME** : ROHIT CHAVHAN
-
-**INTERN ID** : CT08JJO
-
-**DOMAIN** : Cyber-Security & Ethical Hacking
-
-**BATCH DURATION** : JANUARY 5th,2025 to FEBRUARY 5th,2025
-
-**MENTOR NAME** : NEELA SANTHOSH KUMAR
 
 
 ## DESCRIPTION :
